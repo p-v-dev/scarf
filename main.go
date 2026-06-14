@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-	"scarf/cmd"
+	"github.com/p-v-dev/scarf/cmd"
 )
 
 func main() {
