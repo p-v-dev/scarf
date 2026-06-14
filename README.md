@@ -1,6 +1,4 @@
-Com certeza! Aqui está o conteúdo do `README.md` adaptado totalmente para o português do Brasil (PT-BR), mantendo toda a formatação profissional para o seu repositório:
 
-```markdown
 # Scarf 🧣
 
 O **Scarf** é uma ferramenta de linha de comando (CLI) desenvolvida em Go para automatizar a criação de boilerplate de código em projetos que seguem os princípios da **Clean Architecture** (Arquitetura Limpa) e **Domain-Driven Design (DDD)**, adaptada especialmente para o padrão idiomático do ecossistema Go.
@@ -115,4 +113,4 @@ Desenvolvido com ☕ por Pedro Vitor Rodrigues Brito.
 
 ```
 
-```
+
