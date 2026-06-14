@@ -1,4 +1,4 @@
-module scarf
+module https://github.com/p-v-dev/scarf
 
 go 1.26.3
 
