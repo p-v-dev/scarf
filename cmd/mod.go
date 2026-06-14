@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
-	"scarf/internal/generator" // Ajuste o nome do módulo conforme seu go.mod
+	"github.com/p-v-dev/scarf/internal/generator" // Ajuste o nome do módulo conforme seu go.mod
 
 	"github.com/spf13/cobra"
 )
